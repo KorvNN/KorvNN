@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4895EF&center=true&vCenter=true&width=540&height=50&lines=Red+Team+%7C+Blue+Team;I+just+like+knowing+how+things+work." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=540&height=50&lines=Red+Team+%7C+Blue+Team;I+just+like+knowing+how+things+work." />
 
 <br/>
 
@@ -46,8 +46,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:050d1a,100:000000&height=100&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:050d1a,100:000000&height=100&section=footer" />
