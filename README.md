@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Efe%20K%C3%B6r%C3%BCn&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Security%20Engineer&descSize=14&descAlignY=62&descColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=540&lines=Red+Team+%7C+Blue+Team+%7C+CTF+Designer;Python+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Linux;Breaking+things+responsibly+since+2023." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=540&lines=Red+Team+%7C+Blue+Team;Python+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Linux;Breaking+things+responsibly+since+2023." />
 
 <br/>
 
@@ -12,7 +12,8 @@
 
 <br/>
 
-*Alanya Alaaddin Keykubat Üniversitesi · Computer Engineering
+*A third-year computer engineering student who has the goal of becoming a Cyber Security Engineer.*
+*Excited to see where this journey takes me!*
 
 </div>
 
@@ -28,12 +29,16 @@
 
 ---
 
-##  Experience
+## Experience
 
+| Role | Where | When |
+|---|---|---|
 | SOC Analyst Intern | InfinitumIT | 02/2026 – Present |
 | Red Team Intern | Nesil Teknoloji | 05/2025 – 07/2025 |
 | Application Developer | ALKÜ UZEM | 01/2025 – Present |
 | Core Team / SOC | Siber Vatan · ALTAY | 08/2024 – Present |
+
+---
 
 <div align="center">
 
