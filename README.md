@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d2137&height=120&section=header&text=Efe%20K%C3%B6r%C3%BCn&fontSize=42&fontColor=4895ef&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Security%20Engineer&descSize=14&descAlignY=62&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:050d1a,100:0a1628&height=150&section=header&text=Efe%20K%C3%B6r%C3%BCn&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Engineering%20Student%20%7C%20Security%20Engineer&descSize=14&descAlignY=68&descColor=4895ef" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4895EF&center=true&vCenter=true&width=540&lines=Red+Team+%7C+Blue+Team;Python+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Linux;Breaking+things+responsibly+since+2023." />
 
@@ -46,6 +46,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a1628,100:0d1117&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:050d1a,100:000000&height=100&section=footer" />
 
 </div>
