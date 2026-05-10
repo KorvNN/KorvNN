@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:050d1a,100:0a1628&height=150&section=header&text=Efe%20K%C3%B6r%C3%BCn&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Engineering%20Student%20%7C%20Security%20Engineer&descSize=14&descAlignY=68&descColor=4895ef" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FFFFFF&background=0a1628&center=true&vCenter=true&width=540&lines=Red+Team+%7C+Blue+Team;Python+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Linux;Breaking+things+responsibly+since+2023." />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4895EF&center=true&vCenter=true&width=540&height=50&lines=Red+Team+%7C+Blue+Team;I+just+like+knowing+how+things+work." />
 
 <br/>
 
@@ -12,7 +14,7 @@
 
 <br/>
 
-*A third-year computer engineering student who has the goal of becoming a Cyber Security Engineer.*
+*A third-year computer engineering student who has the goal of becoming a Cyber Security Engineer.*  
 *Excited to see where this journey takes me!*
 
 <br/>
