@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ## Languages
 
 <div align="center">
@@ -32,7 +30,5 @@
 [![Skills](https://skillicons.dev/icons?i=py,rust,go,js,php,html,css,linux,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:050d1a,100:000000&height=100&section=footer" />
