@@ -35,15 +35,4 @@
 
 ---
 
-## Experience
-
-| Role | Where | When |
-|---|---|---|
-| SOC Analyst Intern | InfinitumIT | 02/2026 – Present |
-| Red Team Intern | Nesil Teknoloji | 05/2025 – 07/2025 |
-| Application Developer | ALKÜ UZEM | 01/2025 – Present |
-| Core Team / SOC | Siber Vatan · ALTAY | 08/2024 – Present |
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:050d1a,100:000000&height=100&section=footer" />
