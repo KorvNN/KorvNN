@@ -14,7 +14,7 @@
 <img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" width="360" />
 </div>
 
-## Languages
+## Tech Stack
 
 <div align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,rust,go,js,php,html,css,linux,postgres,sqlite&theme=dark" /></a>
