@@ -7,7 +7,7 @@
 <a href="mailto:efekorun.ceng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://efekorun.rf.gd/?i=1"><img src="https://img.shields.io/badge/-Website-4895ef?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <br/><br/>
-<em>A third-year computer engineering student who has the goal of becoming a Cyber Security Engineer.</em>
+<em>A 4th computer engineering student who has the goal of becoming a Cyber Security Engineer.</em>
 <br/>
 <em>Excited to see where this journey takes me!</em>
 <br/><br/>
