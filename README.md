@@ -12,20 +12,6 @@
 <em>Excited to see where this journey takes me!</em>
 </div>
 
-## Projects
-
-**EMBRA** — `Go` `eBPF` `Sigma`
-Runtime detection for Linux: traces syscalls and network events with eBPF, matches them against Sigma rules.
-
-**Pergamon** — `Python` `Ollama` `RAG`
-A fully local AI agent that improves through feedback and makes everyday Linux use simpler.
-
-**AlküGSS** — `Rust` `Go` `gRPC` `Milis Linux`
-Kiosk-based secure exam system with a gRPC agent–master architecture and a central monitoring panel.
-
-**PRATİK** — `Python` `Flask` `PostgreSQL`
-Question and exam management platform for faculty, from authoring and peer review to exam generation.
-
 ## Tech Stack
 
 <div align="center">
@@ -35,5 +21,5 @@ Question and exam management platform for faculty, from authoring and peer revie
 <br/>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" width="320" />
+<img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" width="480" />
 </div>
