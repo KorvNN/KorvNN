@@ -27,9 +27,10 @@
   <circle cx="1010" cy="74" r="58" fill="url(#moon)"/>
   <rect x="0" y="150" width="1200" height="150" fill="url(#haze)"/>
   <path d="M 1200,300 L 1200,138 L 1166,106 L 1131,52 L 1094,110 L 1057,92 L 1021,148 L 986,124 L 947,98 L 904,160 L 869,142 L 827,190 L 784,166 L 740,200 L 688,180 L 637,212 L 581,194 L 525,218 L 463,204 L 401,224 L 333,212 L 261,230 L 187,220 L 109,236 L 37,228 L 0,234 L 0,300 Z" fill="#15305a"/><path d="M 1200,138 L 1166,106 L 1131,52 L 1094,110 L 1057,92 L 1021,148 L 986,124 L 947,98 L 904,160 L 869,142 L 827,190 L 784,166 L 740,200 L 688,180 L 637,212 L 581,194 L 525,218 L 463,204 L 401,224 L 333,212 L 261,230 L 187,220 L 109,236 L 37,228 L 0,234" fill="none" stroke="#8ec5ff" stroke-width="1.4" opacity="0.34"/><path d="M 1200,300 L 1200,198 L 1152,216 L 1097,170 L 1049,214 L 1003,192 L 956,230 L 903,178 L 857,226 L 812,208 L 757,242 L 704,222 L 645,250 L 586,234 L 521,256 L 451,242 L 380,262 L 303,250 L 224,266 L 151,256 L 71,270 L 0,264 L 0,300 Z" fill="#0b1c36"/><path d="M 1200,198 L 1152,216 L 1097,170 L 1049,214 L 1003,192 L 956,230 L 903,178 L 857,226 L 812,208 L 757,242 L 704,222 L 645,250 L 586,234 L 521,256 L 451,242 L 380,262 L 303,250 L 224,266 L 151,256 L 71,270 L 0,264" fill="none" stroke="#4895ef" stroke-width="1.4" opacity="0.3"/><path d="M 1200,300 L 1200,246 L 1129,260 L 1062,228 L 997,264 L 926,246 L 855,272 L 781,252 L 707,276 L 634,264 L 553,282 L 472,270 L 388,286 L 303,276 L 215,290 L 126,280 L 41,292 L 0,288 L 0,300 Z" fill="#050d1c"/><path d="M 1200,246 L 1129,260 L 1062,228 L 997,264 L 926,246 L 855,272 L 781,252 L 707,276 L 634,264 L 553,282 L 472,270 L 388,286 L 303,276 L 215,290 L 126,280 L 41,292 L 0,288" fill="none" stroke="#4895ef" stroke-width="1.4" opacity="0.22"/>
-  <g transform="translate(875 102) scale(.3364)" opacity=".30">
+  <rect width="720" height="300" fill="url(#fade)"/>
+  <g transform="translate(385 72) scale(.23)">
     <g transform="translate(0.000000,434.000000) scale(0.100000,-0.100000)"
-    fill="#b9c9dc" stroke="none">
+    fill="#ffffff" stroke="none">
     <path d="M2055 4101 c-243 -158 -598 -356 -845 -471 -379 -176 -638 -250 -873
     -250 l-69 0 7 -42 c14 -84 97 -355 152 -493 103 -261 245 -514 388 -693 32
     -40 60 -70 62 -68 3 2 -5 22 -16 45 -33 64 -110 256 -148 366 -58 171 -153
@@ -103,7 +104,6 @@
     -82 3z"/>
     </g>
   </g>
-  <rect width="720" height="300" fill="url(#fade)"/>
 
   <text x="56" y="88"  fill="#4895ef" font-size="16" letter-spacing="6" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace">KorvNN</text>
   <text x="54" y="152" fill="#f2f5f9" font-size="54" font-weight="800" letter-spacing="-1" font-family="'Segoe UI',Helvetica,Arial,sans-serif">EFE KÖRÜN</text>
