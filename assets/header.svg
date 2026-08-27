@@ -32,7 +32,7 @@
   <text x="56" y="88"  fill="#4895ef" font-size="16" letter-spacing="6" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace">KorvNN</text>
   <text x="54" y="152" fill="#f2f5f9" font-size="54" font-weight="800" letter-spacing="-1" font-family="'Segoe UI',Helvetica,Arial,sans-serif">EFE KÖRÜN</text>
   <rect x="56" y="172" width="34" height="2" fill="#4895ef"/>
-  <text x="56" y="206" fill="#b9c9dc" font-size="21" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Computer Engineering Student · Antalya, Türkiye</text>
+  <text x="56" y="206" fill="#b9c9dc" font-size="21" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Computer Engineering Student</text>
   <text x="56" y="250" font-size="14" letter-spacing="1.2" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace"><tspan fill="#4895ef" font-size="10" dx="0">●</tspan><tspan fill="#d3e3f5" dx="7">SOC</tspan><tspan fill="#4895ef" font-size="10" dx="26">●</tspan><tspan fill="#d3e3f5" dx="7">Blue Team</tspan><tspan fill="#4895ef" font-size="10" dx="26">●</tspan><tspan fill="#d3e3f5" dx="7">Linux</tspan><tspan fill="#4895ef" font-size="10" dx="26">●</tspan><tspan fill="#d3e3f5" dx="7">Detection</tspan><tspan fill="#4895ef" font-size="10" dx="26">●</tspan><tspan fill="#d3e3f5" dx="7">Hardening</tspan></text>
 </g>
 </svg>
