@@ -3,9 +3,7 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4895EF&center=true&vCenter=true&width=540&height=50&lines=System+Engineering+%7C+Blue+Team;I+just+like+knowing+how+things+work." />
 <br/>
-<em>A 4th computer engineering student who has the goal of becoming a Cyber Security Engineer.</em>
-<br/>
-<em>Excited to see where this journey takes me!</em>
+<img src="assets/tagline.svg" width="900" alt="A 4th computer engineering student who has the goal of becoming a Cyber Security Engineer. Excited to see where this journey takes me!" />
 <br/><br/>
 <img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAd/dark-souls-knight.gif" width="480" />
 </div>
